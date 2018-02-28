@@ -1,7 +1,6 @@
 import java.util.*;
 /* name: Wang Luming
- * student id :1710245
- * date : 2018/01/19
+
  * */
 
 public class SubParseTree implements ExpParseTree {
