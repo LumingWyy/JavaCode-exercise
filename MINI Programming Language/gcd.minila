@@ -1,0 +1,7 @@
+x := 19110;
+y := 17850;
+while y != 0 do
+  tmp := x%y;
+  x := y;
+  y := tmp;
+od
